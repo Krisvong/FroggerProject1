@@ -46,6 +46,7 @@
 }
 
 .frog {
-    background-color: green;
+    max-width: 100%;
+    background-color: yellow;
     
 }
